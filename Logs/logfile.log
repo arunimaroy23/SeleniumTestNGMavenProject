@@ -1,0 +1,12 @@
+Browser selected= firefox
+Driver path = /Users/arunimaroy/Documents/DemoQaSeleniumProject/Drivers/geckodriver
+Initializing firefox driver
+Clicked on login button of homepage
+Entered login credentials
+The page heading is --- Login
+Test Failed
+Clicked on login button of homepage
+Entered login credentials
+The page heading is --- Login
+Successfully logged in
+Closed browser
